@@ -21,6 +21,11 @@ const About = () => {
                 I wish you a lot of fun.
             </p>
             <p>
+                P.S.
+                <br />
+                Apologies for missing last letters in some answers - this is out of my control.
+            </p>
+            <p>
                 M.G.
             </p>
         </>
